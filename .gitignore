@@ -3,3 +3,5 @@ local
 /tests
 /notes.md
 /bin
+.direnv/
+result/
